@@ -1,0 +1,31 @@
+.text-conatainer{
+    border: 2px solid  black;
+    align-items: center;
+    margin: auto;
+    box-sizing: border-box;
+    text-align: center;
+    display: block;
+    background-color: black;
+}
+
+h1{
+    color: green;
+    padding-left: 10px;
+    margin: 0 auto;
+    font-display: optional;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text-conatainer button{
+    background-color:nano ;
+    border-radius: 5px ;
+    box-shadow: 0px 2px 2px;
+    display: block;
+    list-style: none;
+    text-align: center;
+    margin: auto;
+
+
+}
+.color_input{
+    color: orange;
+}
